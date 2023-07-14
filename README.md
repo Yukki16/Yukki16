@@ -4,7 +4,7 @@ My name is Boldea Marius and I am striving to be a generalist programmer for gam
 
 <H4>About me</H4>
 Age: 20 🎮</p>
-Study 📖: University Saxion of Applied Science, Enshcede, Netherlands on specialization Creative Media and Game Technologies (CMGT). Expected to graduate: 2025 🎓 </p>
+Study 📖: University Saxion of Applied Science, Enschede, Netherlands on specialization Creative Media and Game Technologies (CMGT). Expected to graduate: 2025 🎓 </p>
 
 Main interests: Unity/C# with 2 years of experience. </p>
 My dream would be a generalist programmer for an indie company 😄.
