@@ -1,9 +1,9 @@
 Hey, I am Marius, 20, I am a student at University Saxion of Applied Science, Netherlands
-Interests/Experience: Unity/C# (About 1 year so far)
+Interests/Experience: Unity/C# (About 2 year so far)
 
 I want to be a Unity game developer.
 
-Open to chat or to answer questions on Instagram: b_marius20456
+
 Bussiness email: boldeamariusionut@gmail.com
 
 <!---
