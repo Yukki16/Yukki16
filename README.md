@@ -8,7 +8,6 @@ Study : University Saxion of Applied Science, Enschede, Netherlands on specializ
 Main interests: Unity/C# with 3 years of experience. </p>
 My dream would be a generalist programmer for an indie company 😄.
 
-(Due to recent Unity changes I have in plan in moving to Godot for C# and will sharpen my skills in C++ for UE5)
 Most recent work/work in progress: https://github.com/Yukki16/Navigation_System
 I try to recreate the navigation system of Honkai Impact 3rd and making it as a tool available on the Unity Asset Store. It mainly focuses on researching path finding algorithms.
 
