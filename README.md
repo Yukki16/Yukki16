@@ -5,7 +5,7 @@ Hello, my name is Boldea Marius, and my passion lies in becoming a generalist pr
 Age: 21 </p>
 Study : University Saxion of Applied Science, Enschede, Netherlands on specialization Creative Media and Game Technologies (CMGT). Expected to graduate: 2025  </p>
 
-Main interests: Unity/C# with 3 years of experience. </p>
+Main interests: Unity/C# with 4 years of experience. </p>
 
 <H4>Contact</H4>
 Feel free to leave a message on any of them.</p>
